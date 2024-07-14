@@ -1,0 +1,130 @@
+.container {
+  background-color: #e0e3f6;
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+
+.wrapper {
+  box-sizing: border-box;
+  padding: 1.5rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 600px;
+}
+
+.title {
+  font-size: 20px;
+  text-align: center;
+  padding-bottom: 10px;
+  color: #111656;
+}
+
+.box-list {
+  display: flex;
+  justify-content: space-between;
+  margin: 2rem 0;
+  gap: 1rem;
+}
+
+.box {
+  border-radius: 1rem;
+  width: 50%;
+  height: 35vh;
+  background-color: #f2f3fc;
+  position: relative;
+  padding: 12px 20px;
+  overflow: hidden;
+}
+
+.who-txt {
+  color: #9da0c2;
+  font-size: 15px;
+}
+
+.result-txt {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.item-img {
+  position: absolute;
+  bottom: 10%;
+  left: 50%;
+  transform: translate(-50%, 0);
+  height: 60%;
+  filter: invert(14%) sepia(51%) saturate(1254%) hue-rotate(204deg) brightness(95%) contrast(100%);
+}
+
+.btn-list {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 1rem 0 2rem 0;
+}
+
+.btn-list > button {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: #1e235a;
+  border: none;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.btn-list > button:last-child {
+  background-color: #afa3c1;
+}
+
+.btn-list > button:hover {
+  background-color: #676ecf;
+}
+
+.btn-list > button:last-child:hover {
+  background-color: #9979c5;
+}
+
+.btn-list > button:active {
+  transform: translateY(3px);
+}
+
+.btnImg {
+  height: 35px;
+  filter: invert(93%) sepia(5%) saturate(1332%) hue-rotate(192deg) brightness(96%) contrast(102%);
+}
+
+/* 결과에 따라 타이틀 및 이미지 색상 변경 */
+.WIN {
+  color: rgb(94, 175, 94);
+  background-color: rgb(237, 245, 237);
+  transition: transform 0.2s ease 0.4s;
+  transform: translateY(-20px);
+}
+
+.LOSE {
+  color: rgb(219, 91, 91);
+  background-color: rgb(250, 235, 235);
+  transition: transform 0.2s ease 0.4s;
+  transform: translateY(20px);
+}
+
+.TIE {
+  color: rgb(85, 85, 85);
+  /* background-color: rgb(230, 230, 230); */
+}
+
+.win-img {
+  filter: invert(66%) sepia(7%) saturate(2626%) hue-rotate(71deg) brightness(91%) contrast(89%);
+}
+
+.lose-img {
+  filter: invert(44%) sepia(79%) saturate(518%) hue-rotate(314deg) brightness(91%) contrast(87%);
+}
+
+.tie-img {
+  filter: invert(33%) sepia(3%) saturate(13%) hue-rotate(339deg) brightness(98%) contrast(95%);
+}
