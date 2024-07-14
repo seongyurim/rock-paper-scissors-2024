@@ -97,6 +97,13 @@
   filter: invert(93%) sepia(5%) saturate(1332%) hue-rotate(192deg) brightness(96%) contrast(102%);
 }
 
+footer {
+  text-align: center;
+  font-size: 13px;
+  color: #9ea0b9;
+  margin-top: 100px;
+}
+
 /* 결과에 따라 타이틀 및 이미지 색상 변경 */
 .WIN {
   color: rgb(94, 175, 94);

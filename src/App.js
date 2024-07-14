@@ -106,6 +106,8 @@ function App() {
           <Box who="USER" item={userSelect} result={result}/>
           <Box who="COMPUTER" item={comSelect} result={result} />
         </div>
+
+        <footer>© seongyurim, July 2024</footer>
       </div>
 
     </div>
