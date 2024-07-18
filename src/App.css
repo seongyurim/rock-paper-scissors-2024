@@ -135,3 +135,7 @@ footer {
 .tie-img {
   filter: invert(33%) sepia(3%) saturate(13%) hue-rotate(339deg) brightness(98%) contrast(95%);
 }
+
+footer {
+  color: blue;
+}
