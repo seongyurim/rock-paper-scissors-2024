@@ -11,7 +11,7 @@
 
 ## 기술스택
 React, CSS
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 
 ## 주요기능
