@@ -11,8 +11,8 @@
 <div>
 	<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-	![언어 비율](https://github-readme-stats.vercel.app/api/top-langs/?username=seongyurim&repo=rock-paper-scissors-2024&layout=compact)
 </div>
+![언어 비율](https://github-readme-stats.vercel.app/api/top-langs/?username=seongyurim&repo=rock-paper-scissors-2024&layout=compact)
 
 ## 📍주요기능
 - **상태 관리**: 렌더링할 요소를 상태로 관리하여 실시간으로 UI를 업데이트합니다.
