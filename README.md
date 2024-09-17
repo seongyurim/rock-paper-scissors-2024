@@ -1,6 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=rect&height=250&color=1e235a&text=Rock%20Paper%20Scissor&fontColor=ffffff&fontSize=60&desc=컴퓨터와%20대결!%20가위바위보%20게임%20미니%20프로젝트&descAlignY=70&descSize=18)
 
-
 ## 프로젝트 소개
 컴퓨터와 대결! 가위바위보 게임 미니 프로젝트
 
@@ -38,6 +37,6 @@
 
 
 ### 3) 박스 컴포넌트 내부
-+ 주체가 컴퓨터인 경우 유저의 결과를 반전시킨다.
-+ 주체가 유저인 경우는 건네받은 결과를 그대로 보여준다.
++ 주체가 컴퓨터인 경우: 유저의 결과를 반전시킨다.
++ 주체가 유저인 경우: 건네받은 결과를 그대로 보여준다.
 + 게임 결과에 따라 이미지 색상을 변경하는 클래스를 부여한다.
