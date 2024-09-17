@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&height=250&color=1e235a&text=Rock%20Paper%20Scissor&fontColor=ffffff&fontSize=60&desc=컴퓨터와%20대결!%20가위바위보%20게임%20미니%20프로젝트&descAlignY=67&descSize=25&section=header&fontAlignY=45)
+![Header](https://capsule-render.vercel.app/api?type=rect&height=250&color=1e235a&text=Rock%20Paper%20Scissor&fontColor=ffffff&fontSize=60&desc=컴퓨터와%20대결!%20가위바위보%20게임%20미니%20프로젝트&descAlignY=67&descSize=30&section=header&fontAlignY=45)
 <br><br>
 
 ## 프로젝트 소개
