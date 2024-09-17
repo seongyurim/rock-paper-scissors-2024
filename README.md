@@ -3,18 +3,15 @@
 
 ## 프로젝트 소개
 컴퓨터와 간단한 가위바위보 대결을 펼치는 리액트 기반 미니 게임 프로젝트입니다. 유저 선택과 컴퓨터 선택을 비교하여 게임 결과를 실시간으로 확인할 수 있습니다.
-<br><br>
 
 ## 개발기간
 2024.07.15 (1일)
-<br><br>
 
 ## 기술스택
 <div>
 	<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=react&logoColor=white"> 
 </div>
-<br><br>
 
 ## 주요기능
 - **상태 관리**: 렌더링할 요소를 상태로 관리하여 실시간으로 UI를 업데이트한다.
@@ -22,7 +19,6 @@
 - **속성 전달**: 컴포넌트에 속성(`props`)을 전달하여 동적인 UI를 구성한다.
 - **유저 선택 렌더링**: 유저가 선택한 항목을 실시간으로 화면에 반영한다.
 - **랜덤 대응**: 컴퓨터의 선택은 난수를 통해 결정되어 게임의 변동성을 유지한다.
-<br><br>
 
 ## 상세기능
 ### 1) 기본로직
