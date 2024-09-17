@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=1e235a&text=Rock%20Paper%20Scissor&desc=컴퓨터와%20대결!%20가위바위보%20게임%20미니%20프로젝트&section=header&height=250&fontColor=ffffff&fontSize=60&fontAlignY=45&descAlignY=67&descSize=30)
 <br><br>
 
-![언어 비율](https://github-readme-stats.vercel.app/api/top-langs/?username={seongyurim}&repo={rock-paper-scissors-2024}&layout=compact)
+![언어 비율](https://github-readme-stats.vercel.app/api/top-langs/?username=seongyurim&repo=rock-paper-scissors-2024&layout=compact)
 
 ## 📍프로젝트 소개
 컴퓨터와 간단한 가위바위보 대결을 펼치는 리액트 기반 미니 게임 프로젝트입니다. 유저 선택과 컴퓨터 선택을 비교하여 게임 결과를 실시간으로 확인할 수 있습니다.
