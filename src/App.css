@@ -3,6 +3,7 @@
   width: 100vw;
   height: 100vh;
   position: relative;
+  overflow: hidden;
 }
 
 .wrapper {
@@ -13,6 +14,12 @@
   left: 50%;
   transform: translate(-50%, -50%);
   width: 600px;
+}
+
+@media (max-width: 590px) {
+  .wrapper {
+    width: 100%;
+  }
 }
 
 .title {
@@ -37,6 +44,7 @@
   position: relative;
   padding: 12px 20px;
   overflow: hidden;
+  box-sizing: border-box;
 }
 
 .who-txt {
@@ -50,11 +58,13 @@
 }
 
 .item-img {
+  width: 100%;
+  object-fit: contain;
+  display: block;
   position: absolute;
   bottom: 10%;
   left: 50%;
   transform: translate(-50%, 0);
-  height: 60%;
   filter: invert(14%) sepia(51%) saturate(1254%) hue-rotate(204deg) brightness(95%) contrast(100%);
 }
 

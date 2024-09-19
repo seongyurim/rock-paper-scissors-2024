@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import './App.css';
 import Box from './component/box.js';
+import './App.css';
 
 // Images
 import rockImg from '../src/asset/rock.png';
@@ -30,16 +30,10 @@ const choice = {
   }
 }
 
-// const initialState = {
-//   userSelect: null,
-//   comSelect: null,
-//   result: null
-// }
-
 function App() {
   let [userSelect, setUserSelect] = useState(null); // USER's state value
   let [comSelect, setComSelect] = useState(null); // COMPUTER's state value
-  let [result, setResult] = useState("");
+  let [result, setResult] = useState(""); // User's game result
 
   const play = (userChoice) => {
     setUserSelect(choice[userChoice]);
