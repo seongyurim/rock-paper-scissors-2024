@@ -13,8 +13,8 @@
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-## 📍강의 데모페이지
-캡쳐추가예정
+## 📍강의 데모 페이지
+<img width="1479" alt="RockPaperScissor Demo" src="https://github.com/user-attachments/assets/d9d72441-fc82-4e99-9721-b05b11fca295">
 
 ## 📍주요기능
 - **상태 관리**: 렌더링할 요소를 상태로 관리하여 실시간으로 UI를 업데이트합니다.
